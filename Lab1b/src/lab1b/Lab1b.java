@@ -15,7 +15,10 @@ public class Lab1b {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("heyy");
-    }
+        for (int i=0;i<101;i+=2){
+            System.out.println("i= "+i);
+        }
+        }
+    
     
 }
